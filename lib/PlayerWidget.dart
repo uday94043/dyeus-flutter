@@ -222,7 +222,7 @@ class _PlayerWidgetState extends State<PlayerWidget> {
         ? _position
         : null;
     final result =
-        await _audioPlayer.play(url, position: playPosition, isLocal: true);
+        await _audioPlayer.play(url, position: playPosition, isLocal: false);
     if (result == 1) setState(() => _playerState = PlayerState.playing);
 
     // default playback rate is 1.0
