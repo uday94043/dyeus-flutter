@@ -53,7 +53,6 @@ flutter:
     - assets/dyeus.png
     - assets/dyeus1.png
     - assets/dyeus2.png
-    - assets/Spectre.MP3
 
     # An image asset can refer to one or more resolution-specific "variants", see
     # https://flutter.dev/assets-and-images/#resolution-aware.
