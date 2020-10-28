@@ -31,6 +31,7 @@ dependencies:
   carousel_slider: ^2.3.1
   audioplayers: ^0.16.2
   material_design_icons_flutter: ^4.0.5755
+  path_provider: ^1.6.22
 
 dev_dependencies:
   flutter_test:
@@ -52,6 +53,7 @@ flutter:
     - assets/dyeus.png
     - assets/dyeus1.png
     - assets/dyeus2.png
+    - assets/Spectre.MP3
 
     # An image asset can refer to one or more resolution-specific "variants", see
     # https://flutter.dev/assets-and-images/#resolution-aware.

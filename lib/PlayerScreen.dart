@@ -17,7 +17,7 @@ class _PlayerScreenState extends State<PlayerScreen> {
       body: Column(
         children: [
           CarouselWithIndicator(),
-          PlayerWidget(url: audioURL),
+          PlayerWidget(url:audioURL),
         ],
       ),
     );
